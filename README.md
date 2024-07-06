@@ -1,13 +1,13 @@
-# Description
+# 📌 Description
 เนื่องจาก Plugins นี้เป็นการทำ WebScaping จึงอาจจะทำให้เซิฟกระตุกหน่อยๆนะครับแหะๆ
 
 
-# PlaceholderAPI
+# 😁 PlaceholderAPI
 - `%stritytopdonate_player_<ตำแหน่ง>%` สำหรับดึงชื่อขึ้นมาแสดง เช่น `%stritytopdonate_player_1%`
 - `%stritytopdonate_amount_<ตำแหน่ง>%` สำหรับดึงจำนวนขึ้นมาแสดง เช่น `%stritytopdonate_amount_2%`
 
 
-# Configuration
+# 📝 Configuration
 ```yml
 # This Plugins use only Strity Web Store
 # Craft by VisherRyz
@@ -17,6 +17,6 @@ duration: 1200 #เวลาสำหรับการดึงค่าขึ�
 topDonateURL: "https://store.<yourserverdns>/?frontend=ranking" #ลิงค์เว็บ
 ```
 
-# Commands
+# ⌨️ Commands
 - `/stritytopdonate refesh` ดึงค่าจากเว็บใหม่
 - `/stritytopdonate reload` การตั้งค่า
