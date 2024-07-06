@@ -4,11 +4,9 @@
 - `%stritytopdonate_amount_<ตำแหน่ง>%` สำหรับดึงจำนวนขึ้นมาแสดง
 
 
-
-
 # Configuration
 ---
-```
+```yml
 # This Plugins use only Strity Web Store
 # Craft by VisherRyz
 
@@ -19,5 +17,5 @@ topDonateURL: "https://store.<yourserverdns>/?frontend=ranking" #ลิงค์
 
 # Commands
 ---
-`/stritytopdonate refesh` ดึงค่าจากเว็บใหม่
-`/stritytopdonate reload` การตั้งค่า
+- `/stritytopdonate refesh` ดึงค่าจากเว็บใหม่
+- `/stritytopdonate reload` การตั้งค่า
