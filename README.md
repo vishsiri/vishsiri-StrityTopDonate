@@ -1,3 +1,8 @@
+# Description
+---
+เนื่องจาก Plugins นี้เป็นการทำ WebScaping จึงอาจจะทำให้เซิฟกระตุกหน่อยๆนะครับแหะๆ
+
+
 # PlaceholderAPI
 ---
 - `%stritytopdonate_player_<ตำแหน่ง>%` สำหรับดึงชื่อขึ้นมาแสดง เช่น `%stritytopdonate_player_1%`
