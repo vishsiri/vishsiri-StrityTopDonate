@@ -1,0 +1,6 @@
+# This Plugins use only Strity Web Store
+# Craft by VisherRyz
+
+# 20 tick = 1 second
+duration: 1200
+topDonateURL: "https://store.<yourserverdns>/?frontend=ranking"

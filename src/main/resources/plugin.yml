@@ -1,0 +1,10 @@
+name: vishsiri-StrityTopDonate
+version: '${project.version}'
+main: space.vishsiri.vishsiristritytopdonate.StrityTopDonate
+api-version: '1.20'
+depend: [PlaceholderAPI]
+
+commands:
+  stritytopdonate:
+    description: Refresh the top donations
+    usage: /stritytopdonate refresh
